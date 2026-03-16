@@ -7,8 +7,10 @@ A beautifully designed, modern Weather Application built with **Flutter**. This 
 - **Location-based Weather:** Instantly fetch weather for your device's current location via GPS.
 - **3-Day Forecast:** View the upcoming 3-day forecast to plan your week ahead.
 - **Modern Interface:** A sleek blue-and-white theme featuring dynamic glassmorphism aesthetics.
-![Image Alt](https://github.com/Sarthak-Ojha/Weather_App/blob/87036e81e5480dcf67ea52e223c2fd6f6945eca6/Screenshot_1773644072.png)
-![Image Alt](https://github.com/Sarthak-Ojha/Weather_App/blob/d5a025c7f5489c8705bf8e131cb01ca7d15f578e/Screenshot_1773644109.png)
+<p align="center">
+  <img src="https://github.com/Sarthak-Ojha/Weather_App/blob/87036e81e5480dcf67ea52e223c2fd6f6945eca6/Screenshot_1773644072.png" width="250"/>
+  <img src="https://github.com/Sarthak-Ojha/Weather_App/blob/d5a025c7f5489c8705bf8e131cb01ca7d15f578e/Screenshot_1773644109.png" width="250"/>
+</p>
 
 ## Setting Up the Project
 
