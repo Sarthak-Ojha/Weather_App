@@ -7,8 +7,9 @@ A beautifully designed, modern Weather Application built with **Flutter**. This 
 - **Location-based Weather:** Instantly fetch weather for your device's current location via GPS.
 - **3-Day Forecast:** View the upcoming 3-day forecast to plan your week ahead.
 - **Modern Interface:** A sleek blue-and-white theme featuring dynamic glassmorphism aesthetics.
+![Image Alt](https://github.com/Sarthak-Ojha/Weather_App/blob/87036e81e5480dcf67ea52e223c2fd6f6945eca6/Screenshot_1773644072.png)
 ![Image Alt](image_url)
-![Image Alt](image_url)
+
 ## Setting Up the Project
 
 Because this app relies on the OpenWeatherMap network, you will need to apply for your own free API key and supply it in the code before running the application.
