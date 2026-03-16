@@ -1,0 +1,27 @@
+name: weather_app
+description: A modern Flutter weather application
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0  # For making HTTP requests
+  cupertino_icons: ^1.0.2
+  google_fonts: ^8.0.2
+  geolocator: ^14.0.2
+  intl: ^0.20.2
+  flutter_typeahead: ^5.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
