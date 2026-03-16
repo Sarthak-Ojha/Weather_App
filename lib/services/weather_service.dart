@@ -11,7 +11,7 @@ class WeatherService {
   static const String _forecastUrl = 'https://api.openweathermap.org/data/2.5/forecast';
   
   // API Key - Replace with your actual API key from OpenWeatherMap
-  static const String _apiKey = '56409f4727edc2b24fff60681e0ee7ff';
+  static const String _apiKey = 'YOUR_API_KEY_HERE';
 
   /// Fetches current weather data for a specific city
   /// Returns WeatherModel on success, throws exception on failure
